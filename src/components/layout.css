@@ -25,7 +25,7 @@ h1 {
 }
 
 p { 
-  color: grey;
+  color: greys;
 }
 
 @media only screen and (max-width: 600px) {
